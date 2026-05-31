@@ -55,6 +55,12 @@ body {
 .nav-link:hover, .active-link {
     background-color: rgba(0, 0, 0, 0.1);
 }
+/* Адаптивность шапки и навигации */
+@media (max-width: 768px) {
+    .logo { display: none; }
+    .nav-menu { gap: 5px; }
+    .nav-link { font-size: 12px; }
+}
 
 /* --- Главная ---  */
 .about-company-main-page {
