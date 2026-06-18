@@ -31,6 +31,7 @@ https://obihoduser-cmd.github.io/SiteKatana/
 * Git и GitHub Pages для публикации проекта
 
 ## Структура проекта
+```
 SiteKatana
 ├── index.html
 ├── products.html
@@ -42,7 +43,7 @@ SiteKatana
 │   └── Bungee-Regular.ttf
 └── photos
     └── ...
-
+```
 ## Руководство пользователя
 
 ### Навигация
